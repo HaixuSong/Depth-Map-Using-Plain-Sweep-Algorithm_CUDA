@@ -1,4 +1,4 @@
-# Depth-Map-Using-Plain-Sweep-Algorithm_CUDA
+# Depth-Map-Using-Plane-Sweep-Algorithm_CUDA
 
 ## References
 Depth from Focus with Your Mobile Phone, Supasorn Suwajanakorn, Carlos Hernandez and Steven M. Seitz

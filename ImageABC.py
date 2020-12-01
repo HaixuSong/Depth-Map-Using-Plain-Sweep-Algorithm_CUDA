@@ -120,8 +120,14 @@ class ImageABC(metaclass=ABCMeta):
         if windowSize % 2 == 0:
             raise Exception("windowSize should be an odd number.")
         projCord = self.getProjection(cord).reshape((2,))
-        # print(projCord)
         self.showWindow(projCord, windowSize=windowSize)
+
+    def pixInBound(self, cord):
+        ymax, xmax, _ = self.data.shape
+        if 0 <= cord[0] <= xmax - 1 and 0 <= cord[1] <= ymax - 1: return True
+        return False
+    # # given a world cord, get the depth of projected pixel
+    #     # def getDepth(self, cord):
 
 if __name__ == "__main__":
     print("Start Testing \n-----------------")

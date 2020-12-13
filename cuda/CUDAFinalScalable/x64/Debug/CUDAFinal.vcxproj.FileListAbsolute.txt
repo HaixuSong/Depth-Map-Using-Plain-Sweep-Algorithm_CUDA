@@ -1,0 +1,2 @@
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\x64\Debug\CUDAFinal.exe
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\x64\Debug\CUDAFinal.pdb

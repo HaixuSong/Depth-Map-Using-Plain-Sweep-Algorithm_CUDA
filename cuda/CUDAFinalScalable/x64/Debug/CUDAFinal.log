@@ -1,0 +1,9 @@
+﻿  helper.c
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(8,15): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(48,33): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(47,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(49,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(51,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(69,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\helper.c(81,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CUDAFinal.vcxproj -> C:\Users\HexSong\Desktop\810\FinalProject\cuda\CUDAFinal\x64\Debug\CUDAFinal.exe
